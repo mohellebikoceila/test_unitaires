@@ -1,0 +1,19 @@
+{
+    "competitions": [
+        {
+            "name": "Spring Festival",
+            "date": "2022-03-27 10:00:00",
+            "numberOfPlaces": "3"
+        },
+        {
+            "name": "Fall Classic",
+            "date": "2022-10-22 13:30:00",
+            "numberOfPlaces": "13"
+        },
+        {
+            "name": "Fall Classic",
+            "date": "2020-10-22 13:30:00",
+            "numberOfPlaces": "13"
+        }
+    ]
+}
